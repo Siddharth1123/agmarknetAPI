@@ -1,0 +1,6 @@
+Flask==2.2.5
+Werkzeug==2.3.7
+selenium
+beautifulsoup4
+flask-cors
+webdriver-manager
