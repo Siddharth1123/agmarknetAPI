@@ -4,3 +4,4 @@ selenium
 beautifulsoup4
 flask-cors
 webdriver-manager
+python-3.11.8
